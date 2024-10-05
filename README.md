@@ -4,3 +4,4 @@
     VersionConNuevoServicio
     VersionConConexionDesconexion
     Version reto palindromos y nombre mayus
+    Version Celsius to Fahrenheit
