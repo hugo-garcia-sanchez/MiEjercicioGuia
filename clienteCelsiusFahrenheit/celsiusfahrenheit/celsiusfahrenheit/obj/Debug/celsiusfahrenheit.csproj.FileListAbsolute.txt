@@ -8,3 +8,13 @@ C:\Users\hgs09\Desktop\SO\ejercicioguia\miEjercicioGuia\clienteCelsiusFahrenheit
 C:\Users\hgs09\Desktop\SO\ejercicioguia\miEjercicioGuia\clienteCelsiusFahrenheit\celsiusfahrenheit\celsiusfahrenheit\bin\Debug\celsiusfahrenheit.pdb
 C:\Users\hgs09\Desktop\SO\ejercicioguia\miEjercicioGuia\clienteCelsiusFahrenheit\celsiusfahrenheit\celsiusfahrenheit\obj\Debug\celsiusfahrenheit.exe
 C:\Users\hgs09\Desktop\SO\ejercicioguia\miEjercicioGuia\clienteCelsiusFahrenheit\celsiusfahrenheit\celsiusfahrenheit\obj\Debug\celsiusfahrenheit.pdb
+C:\Users\hgs09\Desktop\Q5\SO\ejercicioguia\miEjercicioGuia\clienteCelsiusFahrenheit\celsiusfahrenheit\celsiusfahrenheit\bin\Debug\celsiusfahrenheit.exe.config
+C:\Users\hgs09\Desktop\Q5\SO\ejercicioguia\miEjercicioGuia\clienteCelsiusFahrenheit\celsiusfahrenheit\celsiusfahrenheit\bin\Debug\celsiusfahrenheit.exe
+C:\Users\hgs09\Desktop\Q5\SO\ejercicioguia\miEjercicioGuia\clienteCelsiusFahrenheit\celsiusfahrenheit\celsiusfahrenheit\bin\Debug\celsiusfahrenheit.pdb
+C:\Users\hgs09\Desktop\Q5\SO\ejercicioguia\miEjercicioGuia\clienteCelsiusFahrenheit\celsiusfahrenheit\celsiusfahrenheit\obj\Debug\celsiusfahrenheit.csproj.AssemblyReference.cache
+C:\Users\hgs09\Desktop\Q5\SO\ejercicioguia\miEjercicioGuia\clienteCelsiusFahrenheit\celsiusfahrenheit\celsiusfahrenheit\obj\Debug\celsiusfahrenheit.Form1.resources
+C:\Users\hgs09\Desktop\Q5\SO\ejercicioguia\miEjercicioGuia\clienteCelsiusFahrenheit\celsiusfahrenheit\celsiusfahrenheit\obj\Debug\celsiusfahrenheit.Properties.Resources.resources
+C:\Users\hgs09\Desktop\Q5\SO\ejercicioguia\miEjercicioGuia\clienteCelsiusFahrenheit\celsiusfahrenheit\celsiusfahrenheit\obj\Debug\celsiusfahrenheit.csproj.GenerateResource.cache
+C:\Users\hgs09\Desktop\Q5\SO\ejercicioguia\miEjercicioGuia\clienteCelsiusFahrenheit\celsiusfahrenheit\celsiusfahrenheit\obj\Debug\celsiusfahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\hgs09\Desktop\Q5\SO\ejercicioguia\miEjercicioGuia\clienteCelsiusFahrenheit\celsiusfahrenheit\celsiusfahrenheit\obj\Debug\celsiusfahrenheit.exe
+C:\Users\hgs09\Desktop\Q5\SO\ejercicioguia\miEjercicioGuia\clienteCelsiusFahrenheit\celsiusfahrenheit\celsiusfahrenheit\obj\Debug\celsiusfahrenheit.pdb
